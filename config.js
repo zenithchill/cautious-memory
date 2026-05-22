@@ -14,5 +14,5 @@ var config = {
     // Change this to your real date
     date: "2025-01-01",
 
-    names: ["Jitesh", "Shagun"]
+    names: ["Aman", "Shagun"]
 }
